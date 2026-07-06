@@ -38,7 +38,7 @@ Otodom is built with Next.js, which means most listing data isn't present as pla
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/otodom-scraper.git
+git clone https://github.com/volobuiev/otodom-scraper.git
 cd otodom-scraper
 pip install -r requirements.txt
 ```
